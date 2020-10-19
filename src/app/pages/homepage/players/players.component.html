@@ -1,0 +1,78 @@
+
+
+<div class="mat-elevation-z8">
+
+    <mat-form-field class="mat-form-field-filter">
+        <mat-label>
+            {{ 'FILTER' | translate }}
+        </mat-label>
+        <input matInput (keyup)="applyFilter($event)" placeholder="{{ 'FILTER_EXAMPLE' | translate }}" #input>
+    </mat-form-field>
+
+    <table mat-table matSort [dataSource]="dataSource">
+
+    <ng-container matColumnDef="points">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header>{{ 'POINT' | translate }}</th>
+        <td mat-cell *matCellDef="let element">  
+            <div class="div-mat-card" >
+                <mat-card class="mat-card-players">
+        
+                    <mat-grid-list cols="5" rowHeight="35px">
+            
+                        <mat-grid-tile [colspan]="1" [rowspan]="2">
+            
+                            <div class="avatar">
+                                <img src="{{ element.picture }}" class="img">
+                            </div>
+                            
+                        </mat-grid-tile>
+            
+                        <mat-grid-tile [colspan]="3" [rowspan]="1">
+            
+                            <div class="div-labels">
+                                <mat-label class="label-name_player">
+                                    {{element.name}}
+                                </mat-label>
+                            </div>
+            
+                        </mat-grid-tile>
+            
+                        <mat-grid-tile [colspan]="1" [rowspan]="1">
+                            
+                            <div class="div-team">
+                                <img src="assets/img/{{element.idTeam}}.png" class="img-team">
+                            </div>
+            
+                        </mat-grid-tile>
+            
+                        <mat-grid-tile [colspan]="2" [rowspan]="1" class="mat-grid-tiles-button-avg">
+                            
+                            <div class="div-labels">
+                                <mat-label class="label-name_player">
+                                    {{element.points}}
+                                </mat-label>
+                            </div>
+            
+                        </mat-grid-tile>
+            
+                        <mat-grid-tile [colspan]="2" [rowspan]="1" class="mat-grid-tiles-button-avg">
+            
+                            <div class="div-button">
+                                <button mat-button color="primary" class="button-see-more" (click)="viewDetailPlayer(element)">{{ 'SEE_MORE' | translate }}</button>
+                            </div>
+            
+                        </mat-grid-tile>
+                    </mat-grid-list>
+            
+                </mat-card>
+
+            </div>
+        </td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    </table>
+
+    <mat-paginator [pageSizeOptions]="[10, 25, 50]" showFirstLastButtons></mat-paginator>
+</div>

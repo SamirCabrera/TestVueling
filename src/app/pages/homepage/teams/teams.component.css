@@ -1,0 +1,164 @@
+.example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }
+
+.mat-card-teams {
+    background: rgba(0, 0, 0, 0.2);
+    height: 20%;
+    width: 15%;
+    flex: 0 1 50px;
+    border-radius: 6px;
+    text-align: center;
+    font-weight: bold;
+    margin: 10px 50px;
+    padding: 8px 64px;
+}
+
+.mat-card-teams:hover {
+    background: rgb(253, 0, 101, 0.2);
+    box-shadow: 0px 0px 15px 0px black;
+}
+
+::ng-deep .mat-card-image {
+    width: 100% !important;
+    transition: all 700ms;
+    margin: 20px 0px !important;
+}
+
+::ng-deep .mat-card-image:hover {
+    transform: scale(1.3);
+    transition: all 700ms;
+}
+
+::ng-deep .mat-card-header .mat-card-title {
+    margin: 8px;
+}
+
+.container-card {
+    display: -webkit-box;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.container-statistics {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 208px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    width: 70%;
+    height: 100%;
+}
+
+.statistics-description {
+    height: 20%;
+    width: 15%;
+    flex: 0 1 50px;
+    border-radius: 6px;
+    text-align: center;
+    font-weight: bold;
+    margin: 8px;
+    font-size: 29px;
+    color: #ffffff;
+}
+
+.div-label {
+    padding: 16px 4px;
+}
+
+::ng-deep .mat-icon {
+    font-size: 30px;
+    color: #ffffff;
+    width: 32px !important;
+}
+
+.mat-grid-list-card {
+    box-shadow: 0px -10px 20px 0px black;
+}
+
+.mat-grid-list-statistics {
+    box-shadow: 20px -10px 20px 0px black;
+}
+
+.mat-grid-list-list_players {
+    box-shadow: 0px 0px 20px 0px black;
+}
+
+.button-list-players {
+    font-size: 155%;
+    padding: 8px 16px;
+    border-radius: 6px;
+    color: #ffffff;
+    border: solid 1px #ffffff;
+}
+
+.button-list-players:hover {
+    color: #c2185b;
+    border: solid 1px #c2185b;  
+}
+
+.div-container-statistics {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 208px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 90px;
+}
+
+.div-container-legend {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 208px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.mat-icon-legend {
+    font-size: 16px !important;
+}
+
+.mat-accordion {
+    padding: 16px;
+}
+
+.mat-expansion-panel {
+    background: rgba(0, 0, 0, 0.2);
+}
+
+::ng-deep .mat-expansion-panel-content {
+    background: rgba(0, 0, 0, 0.2);
+}
+
+::ng-deep .mat-expansion-panel-header-description {
+    flex-grow: 54 !important;
+}
+
+.mat-card-title-label {
+    font-size: 16px;
+}
+
+.mat-card-headers {
+    justify-content: center;
+}

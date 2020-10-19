@@ -1,0 +1,3438 @@
+{
+    "players": [{
+            "picture": "https://d1.gomister.com/img/players/476.png",
+            "name": "Gerard Moreno",
+            "position": 4,
+            "id_team": 20,
+            "id_comunio": 1927,
+            "value": 16768000,
+            "points": 41,
+            "avg": 8.2,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127522,
+            "prev_value": 16713000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1191943,
+            "clause": 69825000,
+            "streak": {
+                "3": {
+                    "id_team": 20,
+                    "id_player": 476,
+                    "gameweek": 3,
+                    "points": 0,
+                    "color": 0
+                },
+                "4": {
+                    "id_team": 20,
+                    "id_player": 476,
+                    "gameweek": 4,
+                    "points": 9,
+                    "color": 3
+                },
+                "5": {
+                    "id_team": 20,
+                    "id_player": 476,
+                    "gameweek": 5,
+                    "points": 8,
+                    "color": 3
+                }
+            },
+            "shield": 0,
+            "fav": 1,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 19
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/130.png",
+            "name": "Iago Aspas",
+            "position": 4,
+            "id_team": 5,
+            "id_comunio": 1523,
+            "value": 16104000,
+            "points": 38,
+            "avg": 7.6,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127470,
+            "prev_value": 16073000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1191887,
+            "clause": 73353000,
+            "streak": {
+                "3": {
+                    "id_team": 5,
+                    "id_player": 130,
+                    "gameweek": 3,
+                    "points": 10,
+                    "color": 4
+                },
+                "4": {
+                    "id_team": 5,
+                    "id_player": 130,
+                    "gameweek": 4,
+                    "points": 1,
+                    "color": 2
+                },
+                "5": {
+                    "id_team": 5,
+                    "id_player": 130,
+                    "gameweek": 5,
+                    "points": 4,
+                    "color": 2
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 2
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/269.png",
+            "name": "Morales",
+            "position": 4,
+            "id_team": 12,
+            "id_comunio": 1868,
+            "value": 10403000,
+            "points": 37,
+            "avg": 9.3,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127492,
+            "prev_value": 10320000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1191884,
+            "clause": 30546000,
+            "streak": {
+                "3": {
+                    "id_team": 12,
+                    "id_player": 269,
+                    "gameweek": 3,
+                    "points": 12,
+                    "color": 4
+                },
+                "4": {
+                    "id_team": 12,
+                    "id_player": 269,
+                    "gameweek": 4,
+                    "points": 5,
+                    "color": 3
+                },
+                "5": {
+                    "id_team": 12,
+                    "id_player": 269,
+                    "gameweek": 5,
+                    "points": 4,
+                    "color": 2
+                }
+            },
+            "shield": 0,
+            "fav": 1,
+            "match_info": {
+                "is_home": false,
+                "rival_team_id": 1
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/364.png",
+            "name": "Sergio Canales",
+            "position": 3,
+            "id_team": 4,
+            "id_comunio": 947,
+            "value": 14550000,
+            "points": 36,
+            "avg": 7.2,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127526,
+            "prev_value": 14443000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1191882,
+            "clause": 36000000,
+            "streak": {
+                "3": {
+                    "id_team": 4,
+                    "id_player": 364,
+                    "gameweek": 3,
+                    "points": 8,
+                    "color": 3
+                },
+                "4": {
+                    "id_team": 4,
+                    "id_player": 364,
+                    "gameweek": 4,
+                    "points": 3,
+                    "color": 2
+                },
+                "5": {
+                    "id_team": 4,
+                    "id_player": 364,
+                    "gameweek": 5,
+                    "points": 13,
+                    "color": 4
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 16
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/13697.png",
+            "name": "Mikel Merino",
+            "position": 3,
+            "id_team": 16,
+            "id_comunio": 2626,
+            "value": 13240000,
+            "points": 36,
+            "avg": 7.2,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127483,
+            "prev_value": 13126000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": null,
+            "clause": 19860000,
+            "streak": {
+                "3": {
+                    "id_team": 16,
+                    "id_player": 13697,
+                    "gameweek": 3,
+                    "points": 10,
+                    "color": 4
+                },
+                "4": {
+                    "id_team": 16,
+                    "id_player": 13697,
+                    "gameweek": 4,
+                    "points": 5,
+                    "color": 3
+                },
+                "5": {
+                    "id_team": 16,
+                    "id_player": 13697,
+                    "gameweek": 5,
+                    "points": 12,
+                    "color": 4
+                }
+            },
+            "shield": 0,
+            "fav": 1,
+            "match_info": {
+                "is_home": false,
+                "rival_team_id": 4
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/14670.png",
+            "name": "Thibaut Courtois",
+            "position": 1,
+            "id_team": 15,
+            "id_comunio": 1400,
+            "value": 12020000,
+            "points": 34,
+            "avg": 8.5,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127486,
+            "prev_value": 11936000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1191882,
+            "clause": 25836060,
+            "streak": {
+                "3": {
+                    "id_team": 15,
+                    "id_player": 14670,
+                    "gameweek": 3,
+                    "points": 6,
+                    "color": 3
+                },
+                "4": {
+                    "id_team": 15,
+                    "id_player": 14670,
+                    "gameweek": 4,
+                    "points": 11,
+                    "color": 4
+                },
+                "5": {
+                    "id_team": 15,
+                    "id_player": 14670,
+                    "gameweek": 5,
+                    "points": 10,
+                    "color": 4
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 499
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/19575.png",
+            "name": "Ansu Fati",
+            "position": 4,
+            "id_team": 3,
+            "id_comunio": 2856,
+            "value": 11761000,
+            "points": 33,
+            "avg": 11,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1568727632,
+            "prev_value": 11627000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1191882,
+            "clause": 63296250,
+            "streak": {
+                "3": {
+                    "id_team": 3,
+                    "id_player": 19575,
+                    "gameweek": 3,
+                    "points": 17,
+                    "color": 4
+                },
+                "4": {
+                    "id_team": 3,
+                    "id_player": 19575,
+                    "gameweek": 4,
+                    "points": 13,
+                    "color": 4
+                },
+                "5": {
+                    "id_team": 3,
+                    "id_player": 19575,
+                    "gameweek": 5,
+                    "points": 3,
+                    "color": 2
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": false,
+                "rival_team_id": 9
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/22612.png",
+            "name": "Luis Milla",
+            "position": 3,
+            "id_team": 10,
+            "id_comunio": 0,
+            "value": 10438000,
+            "points": 31,
+            "avg": 7.8,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1596200269,
+            "prev_value": 10354000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1191884,
+            "clause": 32062500,
+            "streak": {
+                "3": {
+                    "id_team": 10,
+                    "id_player": 22612,
+                    "gameweek": 3,
+                    "points": 5,
+                    "color": 3
+                },
+                "4": {
+                    "points": "-",
+                    "color": 0
+                },
+                "5": {
+                    "id_team": 10,
+                    "id_player": 22612,
+                    "gameweek": 5,
+                    "points": 7,
+                    "color": 3
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 17
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/6042.png",
+            "name": "Maxi Gómez",
+            "position": 4,
+            "id_team": 19,
+            "id_comunio": 2401,
+            "value": 11834000,
+            "points": 31,
+            "avg": 6.2,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127478,
+            "prev_value": 11758000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1191882,
+            "clause": 37500000,
+            "streak": {
+                "3": {
+                    "id_team": 19,
+                    "id_player": 6042,
+                    "gameweek": 3,
+                    "points": -1,
+                    "color": 1
+                },
+                "4": {
+                    "id_team": 19,
+                    "id_player": 6042,
+                    "gameweek": 4,
+                    "points": 11,
+                    "color": 4
+                },
+                "5": {
+                    "id_team": 19,
+                    "id_player": 6042,
+                    "gameweek": 5,
+                    "points": 0,
+                    "color": 0
+                }
+            },
+            "shield": 0,
+            "fav": 1,
+            "match_info": {
+                "is_home": false,
+                "rival_team_id": 20
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/551.png",
+            "name": "Jaume Doménech",
+            "position": 1,
+            "id_team": 19,
+            "id_comunio": 2149,
+            "value": 4879000,
+            "points": 31,
+            "avg": 6.2,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127478,
+            "prev_value": 4662000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1191906,
+            "clause": 7318500,
+            "streak": {
+                "3": {
+                    "id_team": 19,
+                    "id_player": 551,
+                    "gameweek": 3,
+                    "points": 7,
+                    "color": 3
+                },
+                "4": {
+                    "id_team": 19,
+                    "id_player": 551,
+                    "gameweek": 4,
+                    "points": 7,
+                    "color": 3
+                },
+                "5": {
+                    "id_team": 19,
+                    "id_player": 551,
+                    "gameweek": 5,
+                    "points": 9,
+                    "color": 3
+                }
+            },
+            "shield": 0,
+            "fav": 1,
+            "match_info": {
+                "is_home": false,
+                "rival_team_id": 20
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/15107.png",
+            "name": "Marc Cucurella",
+            "position": 3,
+            "id_team": 9,
+            "id_comunio": 2682,
+            "value": 10476000,
+            "points": 30,
+            "avg": 7.5,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127464,
+            "prev_value": 10420000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1192582,
+            "clause": 40753287,
+            "streak": {
+                "3": {
+                    "id_team": 9,
+                    "id_player": 15107,
+                    "gameweek": 3,
+                    "points": 6,
+                    "color": 3
+                },
+                "4": {
+                    "id_team": 9,
+                    "id_player": 15107,
+                    "gameweek": 4,
+                    "points": 14,
+                    "color": 4
+                },
+                "5": {
+                    "id_team": 9,
+                    "id_player": 15107,
+                    "gameweek": 5,
+                    "points": 4,
+                    "color": 2
+                }
+            },
+            "shield": 0,
+            "fav": 1,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 3
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/6028.png",
+            "name": "Cristian Tello",
+            "position": 3,
+            "id_team": 4,
+            "id_comunio": 1480,
+            "value": 3098000,
+            "points": 29,
+            "avg": 5.8,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127500,
+            "prev_value": 2957000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": null,
+            "clause": 4647000,
+            "streak": {
+                "3": {
+                    "id_team": 4,
+                    "id_player": 6028,
+                    "gameweek": 3,
+                    "points": 1,
+                    "color": 2
+                },
+                "4": {
+                    "id_team": 4,
+                    "id_player": 6028,
+                    "gameweek": 4,
+                    "points": 2,
+                    "color": 2
+                },
+                "5": {
+                    "id_team": 4,
+                    "id_player": 6028,
+                    "gameweek": 5,
+                    "points": 11,
+                    "color": 4
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 16
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/11312.png",
+            "name": "Philippe Coutinho",
+            "position": 3,
+            "id_team": 3,
+            "id_comunio": 1479,
+            "value": 11342000,
+            "points": 28,
+            "avg": 9.3,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1543508445,
+            "prev_value": 11220000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1191882,
+            "clause": 45001530,
+            "streak": {
+                "3": {
+                    "id_team": 3,
+                    "id_player": 11312,
+                    "gameweek": 3,
+                    "points": 8,
+                    "color": 3
+                },
+                "4": {
+                    "id_team": 3,
+                    "id_player": 11312,
+                    "gameweek": 4,
+                    "points": 10,
+                    "color": 4
+                },
+                "5": {
+                    "id_team": 3,
+                    "id_player": 11312,
+                    "gameweek": 5,
+                    "points": 10,
+                    "color": 4
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": false,
+                "rival_team_id": 9
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/334.png",
+            "name": "Sergio Ramos",
+            "position": 2,
+            "id_team": 15,
+            "id_comunio": 55,
+            "value": 16573000,
+            "points": 28,
+            "avg": 7,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127484,
+            "prev_value": 16544000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1192582,
+            "clause": 45000000,
+            "streak": {
+                "3": {
+                    "id_team": 15,
+                    "id_player": 334,
+                    "gameweek": 3,
+                    "points": 10,
+                    "color": 4
+                },
+                "4": {
+                    "id_team": 15,
+                    "id_player": 334,
+                    "gameweek": 4,
+                    "points": 7,
+                    "color": 3
+                },
+                "5": {
+                    "id_team": 15,
+                    "id_player": 334,
+                    "gameweek": 5,
+                    "points": 5,
+                    "color": 3
+                }
+            },
+            "shield": 0,
+            "fav": 1,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 499
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/5493.png",
+            "name": "Dimitrios Siovas",
+            "position": 2,
+            "id_team": 316,
+            "id_comunio": 2341,
+            "value": 4573000,
+            "points": 28,
+            "avg": 7,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127512,
+            "prev_value": 4367000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": null,
+            "clause": 6859500,
+            "streak": {
+                "3": {
+                    "id_team": 316,
+                    "id_player": 5493,
+                    "gameweek": 3,
+                    "points": 12,
+                    "color": 4
+                },
+                "4": {
+                    "id_team": 316,
+                    "id_player": 5493,
+                    "gameweek": 4,
+                    "points": 6,
+                    "color": 3
+                },
+                "5": {
+                    "id_team": 316,
+                    "id_player": 5493,
+                    "gameweek": 5,
+                    "points": 7,
+                    "color": 3
+                }
+            },
+            "shield": 0,
+            "fav": 1,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 317
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/7025.png",
+            "name": "Marko Dmitrović",
+            "position": 1,
+            "id_team": 7,
+            "id_comunio": 2416,
+            "value": 7783000,
+            "points": 28,
+            "avg": 5.6,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127469,
+            "prev_value": 7672000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1191887,
+            "clause": 14082750,
+            "streak": {
+                "3": {
+                    "id_team": 7,
+                    "id_player": 7025,
+                    "gameweek": 3,
+                    "points": 4,
+                    "color": 2
+                },
+                "4": {
+                    "id_team": 7,
+                    "id_player": 7025,
+                    "gameweek": 4,
+                    "points": 3,
+                    "color": 2
+                },
+                "5": {
+                    "id_team": 7,
+                    "id_player": 7025,
+                    "gameweek": 5,
+                    "points": 8,
+                    "color": 3
+                }
+            },
+            "shield": 0,
+            "fav": 1,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 50
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/481.png",
+            "name": "Pedro Mosquera",
+            "position": 3,
+            "id_team": 316,
+            "id_comunio": 1186,
+            "value": 6026000,
+            "points": 28,
+            "avg": 5.6,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1543508444,
+            "prev_value": 5935000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1192239,
+            "clause": 12052000,
+            "streak": {
+                "3": {
+                    "id_team": 316,
+                    "id_player": 481,
+                    "gameweek": 3,
+                    "points": 7,
+                    "color": 3
+                },
+                "4": {
+                    "id_team": 316,
+                    "id_player": 481,
+                    "gameweek": 4,
+                    "points": 5,
+                    "color": 3
+                },
+                "5": {
+                    "id_team": 316,
+                    "id_player": 481,
+                    "gameweek": 5,
+                    "points": 4,
+                    "color": 2
+                }
+            },
+            "shield": 0,
+            "fav": 1,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 317
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/22627.png",
+            "name": "Salvi",
+            "position": 3,
+            "id_team": 499,
+            "id_comunio": 0,
+            "value": 5376000,
+            "points": 28,
+            "avg": 5.6,
+            "status": "doubt",
+            "id_competition": 1,
+            "ts_pic": 1596230893,
+            "prev_value": 5307000,
+            "last_modified": "2020-10-07 10:42:29",
+            "id_uc": 1191906,
+            "clause": 10752000,
+            "streak": {
+                "3": {
+                    "id_team": 499,
+                    "id_player": 22627,
+                    "gameweek": 3,
+                    "points": 11,
+                    "color": 4
+                },
+                "4": {
+                    "id_team": 499,
+                    "id_player": 22627,
+                    "gameweek": 4,
+                    "points": 4,
+                    "color": 2
+                },
+                "5": {
+                    "id_team": 499,
+                    "id_player": 22627,
+                    "gameweek": 5,
+                    "points": 4,
+                    "color": 2
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": false,
+                "rival_team_id": 15
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/564.png",
+            "name": "Mikel Oyarzabal",
+            "position": 4,
+            "id_team": 16,
+            "id_comunio": 2161,
+            "value": 13895000,
+            "points": 27,
+            "avg": 5.4,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127483,
+            "prev_value": 13795000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1192001,
+            "clause": 28387500,
+            "streak": {
+                "3": {
+                    "id_team": 16,
+                    "id_player": 564,
+                    "gameweek": 3,
+                    "points": 4,
+                    "color": 2
+                },
+                "4": {
+                    "id_team": 16,
+                    "id_player": 564,
+                    "gameweek": 4,
+                    "points": 5,
+                    "color": 3
+                },
+                "5": {
+                    "id_team": 16,
+                    "id_player": 564,
+                    "gameweek": 5,
+                    "points": 10,
+                    "color": 4
+                }
+            },
+            "shield": 0,
+            "fav": 1,
+            "match_info": {
+                "is_home": false,
+                "rival_team_id": 4
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/123.png",
+            "name": "Daniel Wass",
+            "position": 2,
+            "id_team": 19,
+            "id_comunio": 2065,
+            "value": 6523000,
+            "points": 27,
+            "avg": 5.4,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127477,
+            "prev_value": 6396000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": null,
+            "clause": 9784500,
+            "streak": {
+                "3": {
+                    "id_team": 19,
+                    "id_player": 123,
+                    "gameweek": 3,
+                    "points": 10,
+                    "color": 4
+                },
+                "4": {
+                    "id_team": 19,
+                    "id_player": 123,
+                    "gameweek": 4,
+                    "points": 6,
+                    "color": 3
+                },
+                "5": {
+                    "id_team": 19,
+                    "id_player": 123,
+                    "gameweek": 5,
+                    "points": 3,
+                    "color": 2
+                }
+            },
+            "shield": 0,
+            "fav": 1,
+            "match_info": {
+                "is_home": false,
+                "rival_team_id": 20
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/1684.png",
+            "name": "Kike García",
+            "position": 4,
+            "id_team": 7,
+            "id_comunio": 2202,
+            "value": 5025000,
+            "points": 27,
+            "avg": 5.4,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127518,
+            "prev_value": 4816000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1191943,
+            "clause": 10050000,
+            "streak": {
+                "3": {
+                    "id_team": 7,
+                    "id_player": 1684,
+                    "gameweek": 3,
+                    "points": 7,
+                    "color": 3
+                },
+                "4": {
+                    "id_team": 7,
+                    "id_player": 1684,
+                    "gameweek": 4,
+                    "points": 3,
+                    "color": 2
+                },
+                "5": {
+                    "id_team": 7,
+                    "id_player": 1684,
+                    "gameweek": 5,
+                    "points": 3,
+                    "color": 2
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 50
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/222.png",
+            "name": "Edgar Méndez",
+            "position": 3,
+            "id_team": 48,
+            "id_comunio": 1945,
+            "value": 2609000,
+            "points": 27,
+            "avg": 5.4,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1543508444,
+            "prev_value": 2492000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1191886,
+            "clause": 3913500,
+            "streak": {
+                "3": {
+                    "id_team": 48,
+                    "id_player": 222,
+                    "gameweek": 3,
+                    "points": 5,
+                    "color": 3
+                },
+                "4": {
+                    "id_team": 48,
+                    "id_player": 222,
+                    "gameweek": 4,
+                    "points": 9,
+                    "color": 3
+                },
+                "5": {
+                    "id_team": 48,
+                    "id_player": 222,
+                    "gameweek": 5,
+                    "points": 7,
+                    "color": 3
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 23
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/335.png",
+            "name": "Raphaël Varane",
+            "position": 2,
+            "id_team": 15,
+            "id_comunio": 1380,
+            "value": 11681000,
+            "points": 26,
+            "avg": 6.5,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127484,
+            "prev_value": 11632000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1192239,
+            "clause": 23352480,
+            "streak": {
+                "3": {
+                    "id_team": 15,
+                    "id_player": 335,
+                    "gameweek": 3,
+                    "points": 5,
+                    "color": 3
+                },
+                "4": {
+                    "id_team": 15,
+                    "id_player": 335,
+                    "gameweek": 4,
+                    "points": 7,
+                    "color": 3
+                },
+                "5": {
+                    "id_team": 15,
+                    "id_player": 335,
+                    "gameweek": 5,
+                    "points": 6,
+                    "color": 3
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 499
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/7024.png",
+            "name": "Fede Valverde",
+            "position": 3,
+            "id_team": 15,
+            "id_comunio": 2415,
+            "value": 10262000,
+            "points": 26,
+            "avg": 6.5,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127484,
+            "prev_value": 10175000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": null,
+            "clause": 15393000,
+            "streak": {
+                "3": {
+                    "id_team": 15,
+                    "id_player": 7024,
+                    "gameweek": 3,
+                    "points": 12,
+                    "color": 4
+                },
+                "4": {
+                    "id_team": 15,
+                    "id_player": 7024,
+                    "gameweek": 4,
+                    "points": 6,
+                    "color": 3
+                },
+                "5": {
+                    "id_team": 15,
+                    "id_player": 7024,
+                    "gameweek": 5,
+                    "points": 7,
+                    "color": 3
+                }
+            },
+            "shield": 0,
+            "fav": 1,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 499
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/447.png",
+            "name": "Paco Alcácer",
+            "position": 4,
+            "id_team": 20,
+            "id_comunio": 1473,
+            "value": 10653000,
+            "points": 26,
+            "avg": 5.2,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1543508444,
+            "prev_value": 10594000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1192582,
+            "clause": 21306000,
+            "streak": {
+                "3": {
+                    "id_team": 20,
+                    "id_player": 447,
+                    "gameweek": 3,
+                    "points": 0,
+                    "color": 0
+                },
+                "4": {
+                    "id_team": 20,
+                    "id_player": 447,
+                    "gameweek": 4,
+                    "points": 17,
+                    "color": 4
+                },
+                "5": {
+                    "id_team": 20,
+                    "id_player": 447,
+                    "gameweek": 5,
+                    "points": 1,
+                    "color": 2
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 19
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/6049.png",
+            "name": "Cristian Portu",
+            "position": 4,
+            "id_team": 16,
+            "id_comunio": 1835,
+            "value": 10265000,
+            "points": 26,
+            "avg": 5.2,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127483,
+            "prev_value": 10214000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": null,
+            "clause": 15397500,
+            "streak": {
+                "3": {
+                    "id_team": 16,
+                    "id_player": 6049,
+                    "gameweek": 3,
+                    "points": 11,
+                    "color": 4
+                },
+                "4": {
+                    "id_team": 16,
+                    "id_player": 6049,
+                    "gameweek": 4,
+                    "points": 1,
+                    "color": 2
+                },
+                "5": {
+                    "id_team": 16,
+                    "id_player": 6049,
+                    "gameweek": 5,
+                    "points": 9,
+                    "color": 3
+                }
+            },
+            "shield": 0,
+            "fav": 1,
+            "match_info": {
+                "is_home": false,
+                "rival_team_id": 4
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/12913.png",
+            "name": "David Ferreiro",
+            "position": 3,
+            "id_team": 316,
+            "id_comunio": 2583,
+            "value": 5726000,
+            "points": 26,
+            "avg": 5.2,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1543508445,
+            "prev_value": 5617000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": null,
+            "clause": 8589000,
+            "streak": {
+                "3": {
+                    "id_team": 316,
+                    "id_player": 12913,
+                    "gameweek": 3,
+                    "points": 7,
+                    "color": 3
+                },
+                "4": {
+                    "id_team": 316,
+                    "id_player": 12913,
+                    "gameweek": 4,
+                    "points": 5,
+                    "color": 3
+                },
+                "5": {
+                    "id_team": 316,
+                    "id_player": 12913,
+                    "gameweek": 5,
+                    "points": 6,
+                    "color": 3
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 317
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/13700.png",
+            "name": "William Carvalho",
+            "position": 3,
+            "id_team": 4,
+            "id_comunio": 2628,
+            "value": 3747000,
+            "points": 26,
+            "avg": 5.2,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127470,
+            "prev_value": 3587000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": null,
+            "clause": 5620500,
+            "streak": {
+                "3": {
+                    "id_team": 4,
+                    "id_player": 13700,
+                    "gameweek": 3,
+                    "points": 10,
+                    "color": 4
+                },
+                "4": {
+                    "id_team": 4,
+                    "id_player": 13700,
+                    "gameweek": 4,
+                    "points": -1,
+                    "color": 1
+                },
+                "5": {
+                    "id_team": 4,
+                    "id_player": 13700,
+                    "gameweek": 5,
+                    "points": 1,
+                    "color": 2
+                }
+            },
+            "shield": 0,
+            "fav": 1,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 16
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/78.png",
+            "name": "Leo Messi",
+            "position": 4,
+            "id_team": 3,
+            "id_comunio": 34,
+            "value": 24492000,
+            "points": 25,
+            "avg": 8.3,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127465,
+            "prev_value": 24490000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1191906,
+            "clause": 76590000,
+            "streak": {
+                "3": {
+                    "id_team": 3,
+                    "id_player": 78,
+                    "gameweek": 3,
+                    "points": 11,
+                    "color": 4
+                },
+                "4": {
+                    "id_team": 3,
+                    "id_player": 78,
+                    "gameweek": 4,
+                    "points": 8,
+                    "color": 3
+                },
+                "5": {
+                    "id_team": 3,
+                    "id_player": 78,
+                    "gameweek": 5,
+                    "points": 6,
+                    "color": 3
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": false,
+                "rival_team_id": 9
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/74.png",
+            "name": "Sergi Roberto",
+            "position": 2,
+            "id_team": 3,
+            "id_comunio": 1342,
+            "value": 6871000,
+            "points": 25,
+            "avg": 8.3,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127509,
+            "prev_value": 6740000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1191884,
+            "clause": 10306500,
+            "streak": {
+                "3": {
+                    "id_team": 3,
+                    "id_player": 74,
+                    "gameweek": 3,
+                    "points": 4,
+                    "color": 2
+                },
+                "4": {
+                    "id_team": 3,
+                    "id_player": 74,
+                    "gameweek": 4,
+                    "points": 16,
+                    "color": 4
+                },
+                "5": {
+                    "id_team": 3,
+                    "id_player": 74,
+                    "gameweek": 5,
+                    "points": 5,
+                    "color": 3
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": false,
+                "rival_team_id": 9
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/15564.png",
+            "name": "Roberto López",
+            "position": 3,
+            "id_team": 16,
+            "id_comunio": 2725,
+            "value": 1700000,
+            "points": 25,
+            "avg": 8.3,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127482,
+            "prev_value": 1629000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": null,
+            "clause": 2550000,
+            "streak": {
+                "3": {
+                    "id_team": 16,
+                    "id_player": 15564,
+                    "gameweek": 3,
+                    "points": 11,
+                    "color": 4
+                },
+                "4": {
+                    "id_team": 16,
+                    "id_player": 15564,
+                    "gameweek": 4,
+                    "points": 4,
+                    "color": 2
+                },
+                "5": {
+                    "id_team": 16,
+                    "id_player": 15564,
+                    "gameweek": 5,
+                    "points": "-",
+                    "color": 0
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": false,
+                "rival_team_id": 4
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/12911.png",
+            "name": "Gonzalo Melero",
+            "position": 3,
+            "id_team": 12,
+            "id_comunio": 2581,
+            "value": 2952000,
+            "points": 25,
+            "avg": 6.3,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127492,
+            "prev_value": 2824000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": null,
+            "clause": 4428000,
+            "streak": {
+                "3": {
+                    "id_team": 12,
+                    "id_player": 12911,
+                    "gameweek": 3,
+                    "points": 10,
+                    "color": 4
+                },
+                "4": {
+                    "id_team": 12,
+                    "id_player": 12911,
+                    "gameweek": 4,
+                    "points": 4,
+                    "color": 2
+                },
+                "5": {
+                    "id_team": 12,
+                    "id_player": 12911,
+                    "gameweek": 5,
+                    "points": 6,
+                    "color": 3
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": false,
+                "rival_team_id": 1
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/12903.png",
+            "name": "Jorge Pulido",
+            "position": 2,
+            "id_team": 316,
+            "id_comunio": 1336,
+            "value": 5650000,
+            "points": 25,
+            "avg": 5,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1543508445,
+            "prev_value": 5551000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1191906,
+            "clause": 8475000,
+            "streak": {
+                "3": {
+                    "id_team": 316,
+                    "id_player": 12903,
+                    "gameweek": 3,
+                    "points": 6,
+                    "color": 3
+                },
+                "4": {
+                    "id_team": 316,
+                    "id_player": 12903,
+                    "gameweek": 4,
+                    "points": 6,
+                    "color": 3
+                },
+                "5": {
+                    "id_team": 316,
+                    "id_player": 12903,
+                    "gameweek": 5,
+                    "points": 5,
+                    "color": 3
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 317
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/11092.png",
+            "name": "Andoni Gorosabel",
+            "position": 2,
+            "id_team": 16,
+            "id_comunio": 2491,
+            "value": 2272000,
+            "points": 25,
+            "avg": 5,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127484,
+            "prev_value": 2168000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": null,
+            "clause": 3408000,
+            "streak": {
+                "3": {
+                    "id_team": 16,
+                    "id_player": 11092,
+                    "gameweek": 3,
+                    "points": 6,
+                    "color": 3
+                },
+                "4": {
+                    "id_team": 16,
+                    "id_player": 11092,
+                    "gameweek": 4,
+                    "points": 5,
+                    "color": 3
+                },
+                "5": {
+                    "id_team": 16,
+                    "id_player": 11092,
+                    "gameweek": 5,
+                    "points": 6,
+                    "color": 3
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": false,
+                "rival_team_id": 4
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/8952.png",
+            "name": "Jesús Navas",
+            "position": 2,
+            "id_team": 17,
+            "id_comunio": 16,
+            "value": 12410000,
+            "points": 24,
+            "avg": 8,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127462,
+            "prev_value": 12342000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1191886,
+            "clause": 22492500,
+            "streak": {
+                "3": {
+                    "id_team": 17,
+                    "id_player": 8952,
+                    "gameweek": 3,
+                    "points": 10,
+                    "color": 4
+                },
+                "4": {
+                    "id_team": 17,
+                    "id_player": 8952,
+                    "gameweek": 4,
+                    "points": 9,
+                    "color": 3
+                },
+                "5": {
+                    "id_team": 17,
+                    "id_player": 8952,
+                    "gameweek": 5,
+                    "points": 5,
+                    "color": 3
+                }
+            },
+            "shield": 0,
+            "fav": 1,
+            "match_info": {
+                "is_home": false,
+                "rival_team_id": 10
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/346.png",
+            "name": "Luka Modrić",
+            "position": 3,
+            "id_team": 15,
+            "id_comunio": 1583,
+            "value": 10329000,
+            "points": 24,
+            "avg": 6,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127462,
+            "prev_value": 10257000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1192001,
+            "clause": 15493500,
+            "streak": {
+                "3": {
+                    "id_team": 15,
+                    "id_player": 346,
+                    "gameweek": 3,
+                    "points": 6,
+                    "color": 3
+                },
+                "4": {
+                    "id_team": 15,
+                    "id_player": 346,
+                    "gameweek": 4,
+                    "points": 7,
+                    "color": 3
+                },
+                "5": {
+                    "id_team": 15,
+                    "id_player": 346,
+                    "gameweek": 5,
+                    "points": 7,
+                    "color": 3
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 499
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/6027.png",
+            "name": "José Campaña",
+            "position": 3,
+            "id_team": 12,
+            "id_comunio": 1365,
+            "value": 10255000,
+            "points": 24,
+            "avg": 6,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127492,
+            "prev_value": 10206000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1192001,
+            "clause": 15637500,
+            "streak": {
+                "3": {
+                    "id_team": 12,
+                    "id_player": 6027,
+                    "gameweek": 3,
+                    "points": 8,
+                    "color": 3
+                },
+                "4": {
+                    "id_team": 12,
+                    "id_player": 6027,
+                    "gameweek": 4,
+                    "points": 6,
+                    "color": 3
+                },
+                "5": {
+                    "id_team": 12,
+                    "id_player": 6027,
+                    "gameweek": 5,
+                    "points": 4,
+                    "color": 2
+                }
+            },
+            "shield": 0,
+            "fav": 1,
+            "match_info": {
+                "is_home": false,
+                "rival_team_id": 1
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/229.png",
+            "name": "Darwin Machís",
+            "position": 4,
+            "id_team": 10,
+            "id_comunio": 1550,
+            "value": 10106000,
+            "points": 24,
+            "avg": 6,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127517,
+            "prev_value": 10082000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1191884,
+            "clause": 29967000,
+            "streak": {
+                "3": {
+                    "id_team": 10,
+                    "id_player": 229,
+                    "gameweek": 3,
+                    "points": 1,
+                    "color": 2
+                },
+                "4": {
+                    "points": "-",
+                    "color": 0
+                },
+                "5": {
+                    "id_team": 10,
+                    "id_player": 229,
+                    "gameweek": 5,
+                    "points": 5,
+                    "color": 3
+                }
+            },
+            "shield": 0,
+            "fav": 1,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 17
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/3778.png",
+            "name": "Joselu",
+            "position": 4,
+            "id_team": 48,
+            "id_comunio": 1341,
+            "value": 10078000,
+            "points": 24,
+            "avg": 6,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127519,
+            "prev_value": 10067000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": null,
+            "clause": 15117000,
+            "streak": {
+                "3": {
+                    "id_team": 48,
+                    "id_player": 3778,
+                    "gameweek": 3,
+                    "points": 5,
+                    "color": 3
+                },
+                "4": {
+                    "points": "-",
+                    "color": 0
+                },
+                "5": {
+                    "id_team": 48,
+                    "id_player": 3778,
+                    "gameweek": 5,
+                    "points": 4,
+                    "color": 2
+                }
+            },
+            "shield": 0,
+            "fav": 1,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 23
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/24.png",
+            "name": "Unai López",
+            "position": 3,
+            "id_team": 1,
+            "id_comunio": 1969,
+            "value": 4658000,
+            "points": 24,
+            "avg": 6,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127507,
+            "prev_value": 4468000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1191943,
+            "clause": 6987000,
+            "streak": {
+                "3": {
+                    "id_team": 1,
+                    "id_player": 24,
+                    "gameweek": 3,
+                    "points": 18,
+                    "color": 4
+                },
+                "4": {
+                    "id_team": 1,
+                    "id_player": 24,
+                    "gameweek": 4,
+                    "points": 0,
+                    "color": 0
+                },
+                "5": {
+                    "id_team": 1,
+                    "id_player": 24,
+                    "gameweek": 5,
+                    "points": 4,
+                    "color": 2
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 12
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/22626.png",
+            "name": "Jorge Pombo",
+            "position": 3,
+            "id_team": 499,
+            "id_comunio": 0,
+            "value": 3061000,
+            "points": 24,
+            "avg": 6,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1596230874,
+            "prev_value": 2929000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1192239,
+            "clause": 12244000,
+            "streak": {
+                "3": {
+                    "id_team": 499,
+                    "id_player": 22626,
+                    "gameweek": 3,
+                    "points": 7,
+                    "color": 3
+                },
+                "4": {
+                    "points": "-",
+                    "color": 0
+                },
+                "5": {
+                    "id_team": 499,
+                    "id_player": 22626,
+                    "gameweek": 5,
+                    "points": 1,
+                    "color": 2
+                }
+            },
+            "shield": 0,
+            "fav": 1,
+            "match_info": {
+                "is_home": false,
+                "rival_team_id": 15
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/6032.png",
+            "name": "Alex Remiro",
+            "position": 1,
+            "id_team": 16,
+            "id_comunio": 2369,
+            "value": 7404000,
+            "points": 24,
+            "avg": 4.8,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127483,
+            "prev_value": 7292000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": null,
+            "clause": 11106000,
+            "streak": {
+                "3": {
+                    "id_team": 16,
+                    "id_player": 6032,
+                    "gameweek": 3,
+                    "points": 10,
+                    "color": 4
+                },
+                "4": {
+                    "id_team": 16,
+                    "id_player": 6032,
+                    "gameweek": 4,
+                    "points": 3,
+                    "color": 2
+                },
+                "5": {
+                    "id_team": 16,
+                    "id_player": 6032,
+                    "gameweek": 5,
+                    "points": 3,
+                    "color": 2
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": false,
+                "rival_team_id": 4
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/22619.png",
+            "name": "Isaac Carcelén",
+            "position": 2,
+            "id_team": 499,
+            "id_comunio": 0,
+            "value": 5857000,
+            "points": 24,
+            "avg": 4.8,
+            "status": "injury",
+            "id_competition": 1,
+            "ts_pic": 1596230775,
+            "prev_value": 5777000,
+            "last_modified": "2020-10-07 10:42:10",
+            "id_uc": 1191906,
+            "clause": 11714000,
+            "streak": {
+                "3": {
+                    "id_team": 499,
+                    "id_player": 22619,
+                    "gameweek": 3,
+                    "points": 3,
+                    "color": 2
+                },
+                "4": {
+                    "id_team": 499,
+                    "id_player": 22619,
+                    "gameweek": 4,
+                    "points": 6,
+                    "color": 3
+                },
+                "5": {
+                    "id_team": 499,
+                    "id_player": 22619,
+                    "gameweek": 5,
+                    "points": 2,
+                    "color": 2
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": false,
+                "rival_team_id": 15
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/208.png",
+            "name": "Moi Gómez",
+            "position": 3,
+            "id_team": 20,
+            "id_comunio": 1462,
+            "value": 7887000,
+            "points": 23,
+            "avg": 4.6,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127473,
+            "prev_value": 7756000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": null,
+            "clause": 11830500,
+            "streak": {
+                "3": {
+                    "id_team": 20,
+                    "id_player": 208,
+                    "gameweek": 3,
+                    "points": 3,
+                    "color": 2
+                },
+                "4": {
+                    "id_team": 20,
+                    "id_player": 208,
+                    "gameweek": 4,
+                    "points": 7,
+                    "color": 3
+                },
+                "5": {
+                    "id_team": 20,
+                    "id_player": 208,
+                    "gameweek": 5,
+                    "points": 4,
+                    "color": 2
+                }
+            },
+            "shield": 0,
+            "fav": 1,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 19
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/20346.png",
+            "name": "Guido Rodríguez",
+            "position": 3,
+            "id_team": 4,
+            "id_comunio": 0,
+            "value": 4696000,
+            "points": 23,
+            "avg": 4.6,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1593460825,
+            "prev_value": 4497000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1191884,
+            "clause": 14529375,
+            "streak": {
+                "3": {
+                    "id_team": 4,
+                    "id_player": 20346,
+                    "gameweek": 3,
+                    "points": 4,
+                    "color": 2
+                },
+                "4": {
+                    "id_team": 4,
+                    "id_player": 20346,
+                    "gameweek": 4,
+                    "points": 0,
+                    "color": 0
+                },
+                "5": {
+                    "id_team": 4,
+                    "id_player": 20346,
+                    "gameweek": 5,
+                    "points": 5,
+                    "color": 3
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 16
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/354.png",
+            "name": "Aritz Elustondo",
+            "position": 2,
+            "id_team": 16,
+            "id_comunio": 2016,
+            "value": 3584000,
+            "points": 23,
+            "avg": 4.6,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127484,
+            "prev_value": 3426000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": null,
+            "clause": 5376000,
+            "streak": {
+                "3": {
+                    "id_team": 16,
+                    "id_player": 354,
+                    "gameweek": 3,
+                    "points": 3,
+                    "color": 2
+                },
+                "4": {
+                    "id_team": 16,
+                    "id_player": 354,
+                    "gameweek": 4,
+                    "points": 3,
+                    "color": 2
+                },
+                "5": {
+                    "id_team": 16,
+                    "id_player": 354,
+                    "gameweek": 5,
+                    "points": 7,
+                    "color": 3
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": false,
+                "rival_team_id": 4
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/18221.png",
+            "name": "João Félix",
+            "position": 4,
+            "id_team": 2,
+            "id_comunio": 2792,
+            "value": 12053000,
+            "points": 22,
+            "avg": 7.3,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1572363021,
+            "prev_value": 11956000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1192582,
+            "clause": 48212000,
+            "streak": {
+                "3": {
+                    "id_team": 2,
+                    "id_player": 18221,
+                    "gameweek": 3,
+                    "points": 14,
+                    "color": 4
+                },
+                "4": {
+                    "id_team": 2,
+                    "id_player": 18221,
+                    "gameweek": 4,
+                    "points": 7,
+                    "color": 3
+                },
+                "5": {
+                    "id_team": 2,
+                    "id_player": 18221,
+                    "gameweek": 5,
+                    "points": 1,
+                    "color": 2
+                }
+            },
+            "shield": 0,
+            "fav": 1,
+            "match_info": {
+                "is_home": false,
+                "rival_team_id": 5
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/12900.png",
+            "name": "Vinícius Júnior",
+            "position": 4,
+            "id_team": 15,
+            "id_comunio": 2565,
+            "value": 10305000,
+            "points": 22,
+            "avg": 7.3,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127484,
+            "prev_value": 10216000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": null,
+            "clause": 15457500,
+            "streak": {
+                "3": {
+                    "points": "-",
+                    "color": 0
+                },
+                "4": {
+                    "id_team": 15,
+                    "id_player": 12900,
+                    "gameweek": 4,
+                    "points": 10,
+                    "color": 4
+                },
+                "5": {
+                    "id_team": 15,
+                    "id_player": 12900,
+                    "gameweek": 5,
+                    "points": 9,
+                    "color": 3
+                }
+            },
+            "shield": 0,
+            "fav": 1,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 499
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/18112.png",
+            "name": "Luuk de Jong",
+            "position": 4,
+            "id_team": 17,
+            "id_comunio": 2815,
+            "value": 10275000,
+            "points": 22,
+            "avg": 7.3,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127524,
+            "prev_value": 10193000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1192001,
+            "clause": 20550000,
+            "streak": {
+                "3": {
+                    "id_team": 17,
+                    "id_player": 18112,
+                    "gameweek": 3,
+                    "points": 9,
+                    "color": 3
+                },
+                "4": {
+                    "id_team": 17,
+                    "id_player": 18112,
+                    "gameweek": 4,
+                    "points": 3,
+                    "color": 2
+                },
+                "5": {
+                    "id_team": 17,
+                    "id_player": 18112,
+                    "gameweek": 5,
+                    "points": 10,
+                    "color": 4
+                }
+            },
+            "shield": 0,
+            "fav": 0,
+            "match_info": {
+                "is_home": false,
+                "rival_team_id": 10
+            }
+        }, {
+            "picture": "https://d1.gomister.com/img/players/7739.png",
+            "name": "Ángel Rodríguez",
+            "position": 4,
+            "id_team": 9,
+            "id_comunio": 1014,
+            "value": 6108000,
+            "points": 22,
+            "avg": 7.3,
+            "status": null,
+            "id_competition": 1,
+            "ts_pic": 1571127497,
+            "prev_value": 5996000,
+            "last_modified": "2020-10-07 05:07:06",
+            "id_uc": 1192239,
+            "clause": 12722140,
+            "streak": {
+                "3": {
+                    "id_team": 9,
+                    "id_player": 7739,
+                    "gameweek": 3,
+                    "points": 3,
+                    "color": 2
+                },
+                "4": {
+                    "id_team": 9,
+                    "id_player": 7739,
+                    "gameweek": 4,
+                    "points": 17,
+                    "color": 4
+                },
+                "5": {
+                    "id_team": 9,
+                    "id_player": 7739,
+                    "gameweek": 5,
+                    "points": 2,
+                    "color": 2
+                }
+            },
+            "shield": 0,
+            "fav": 1,
+            "match_info": {
+                "is_home": true,
+                "rival_team_id": 3
+            }
+        }
+    ],
+    "streaks": {
+        "24": {
+            "3": {
+                "id_team": 1,
+                "id_player": 24,
+                "gameweek": 3,
+                "points": 18,
+                "color": 4
+            },
+            "4": {
+                "id_team": 1,
+                "id_player": 24,
+                "gameweek": 4,
+                "points": 0,
+                "color": 0
+            },
+            "5": {
+                "id_team": 1,
+                "id_player": 24,
+                "gameweek": 5,
+                "points": 4,
+                "color": 2
+            }
+        },
+        "74": {
+            "3": {
+                "id_team": 3,
+                "id_player": 74,
+                "gameweek": 3,
+                "points": 4,
+                "color": 2
+            },
+            "4": {
+                "id_team": 3,
+                "id_player": 74,
+                "gameweek": 4,
+                "points": 16,
+                "color": 4
+            },
+            "5": {
+                "id_team": 3,
+                "id_player": 74,
+                "gameweek": 5,
+                "points": 5,
+                "color": 3
+            }
+        },
+        "78": {
+            "3": {
+                "id_team": 3,
+                "id_player": 78,
+                "gameweek": 3,
+                "points": 11,
+                "color": 4
+            },
+            "4": {
+                "id_team": 3,
+                "id_player": 78,
+                "gameweek": 4,
+                "points": 8,
+                "color": 3
+            },
+            "5": {
+                "id_team": 3,
+                "id_player": 78,
+                "gameweek": 5,
+                "points": 6,
+                "color": 3
+            }
+        },
+        "123": {
+            "3": {
+                "id_team": 19,
+                "id_player": 123,
+                "gameweek": 3,
+                "points": 10,
+                "color": 4
+            },
+            "4": {
+                "id_team": 19,
+                "id_player": 123,
+                "gameweek": 4,
+                "points": 6,
+                "color": 3
+            },
+            "5": {
+                "id_team": 19,
+                "id_player": 123,
+                "gameweek": 5,
+                "points": 3,
+                "color": 2
+            }
+        },
+        "130": {
+            "3": {
+                "id_team": 5,
+                "id_player": 130,
+                "gameweek": 3,
+                "points": 10,
+                "color": 4
+            },
+            "4": {
+                "id_team": 5,
+                "id_player": 130,
+                "gameweek": 4,
+                "points": 1,
+                "color": 2
+            },
+            "5": {
+                "id_team": 5,
+                "id_player": 130,
+                "gameweek": 5,
+                "points": 4,
+                "color": 2
+            }
+        },
+        "208": {
+            "3": {
+                "id_team": 20,
+                "id_player": 208,
+                "gameweek": 3,
+                "points": 3,
+                "color": 2
+            },
+            "4": {
+                "id_team": 20,
+                "id_player": 208,
+                "gameweek": 4,
+                "points": 7,
+                "color": 3
+            },
+            "5": {
+                "id_team": 20,
+                "id_player": 208,
+                "gameweek": 5,
+                "points": 4,
+                "color": 2
+            }
+        },
+        "222": {
+            "3": {
+                "id_team": 48,
+                "id_player": 222,
+                "gameweek": 3,
+                "points": 5,
+                "color": 3
+            },
+            "4": {
+                "id_team": 48,
+                "id_player": 222,
+                "gameweek": 4,
+                "points": 9,
+                "color": 3
+            },
+            "5": {
+                "id_team": 48,
+                "id_player": 222,
+                "gameweek": 5,
+                "points": 7,
+                "color": 3
+            }
+        },
+        "229": {
+            "3": {
+                "id_team": 10,
+                "id_player": 229,
+                "gameweek": 3,
+                "points": 1,
+                "color": 2
+            },
+            "4": {
+                "points": "-",
+                "color": 0
+            },
+            "5": {
+                "id_team": 10,
+                "id_player": 229,
+                "gameweek": 5,
+                "points": 5,
+                "color": 3
+            }
+        },
+        "269": {
+            "3": {
+                "id_team": 12,
+                "id_player": 269,
+                "gameweek": 3,
+                "points": 12,
+                "color": 4
+            },
+            "4": {
+                "id_team": 12,
+                "id_player": 269,
+                "gameweek": 4,
+                "points": 5,
+                "color": 3
+            },
+            "5": {
+                "id_team": 12,
+                "id_player": 269,
+                "gameweek": 5,
+                "points": 4,
+                "color": 2
+            }
+        },
+        "334": {
+            "3": {
+                "id_team": 15,
+                "id_player": 334,
+                "gameweek": 3,
+                "points": 10,
+                "color": 4
+            },
+            "4": {
+                "id_team": 15,
+                "id_player": 334,
+                "gameweek": 4,
+                "points": 7,
+                "color": 3
+            },
+            "5": {
+                "id_team": 15,
+                "id_player": 334,
+                "gameweek": 5,
+                "points": 5,
+                "color": 3
+            }
+        },
+        "335": {
+            "3": {
+                "id_team": 15,
+                "id_player": 335,
+                "gameweek": 3,
+                "points": 5,
+                "color": 3
+            },
+            "4": {
+                "id_team": 15,
+                "id_player": 335,
+                "gameweek": 4,
+                "points": 7,
+                "color": 3
+            },
+            "5": {
+                "id_team": 15,
+                "id_player": 335,
+                "gameweek": 5,
+                "points": 6,
+                "color": 3
+            }
+        },
+        "346": {
+            "3": {
+                "id_team": 15,
+                "id_player": 346,
+                "gameweek": 3,
+                "points": 6,
+                "color": 3
+            },
+            "4": {
+                "id_team": 15,
+                "id_player": 346,
+                "gameweek": 4,
+                "points": 7,
+                "color": 3
+            },
+            "5": {
+                "id_team": 15,
+                "id_player": 346,
+                "gameweek": 5,
+                "points": 7,
+                "color": 3
+            }
+        },
+        "354": {
+            "3": {
+                "id_team": 16,
+                "id_player": 354,
+                "gameweek": 3,
+                "points": 3,
+                "color": 2
+            },
+            "4": {
+                "id_team": 16,
+                "id_player": 354,
+                "gameweek": 4,
+                "points": 3,
+                "color": 2
+            },
+            "5": {
+                "id_team": 16,
+                "id_player": 354,
+                "gameweek": 5,
+                "points": 7,
+                "color": 3
+            }
+        },
+        "364": {
+            "3": {
+                "id_team": 4,
+                "id_player": 364,
+                "gameweek": 3,
+                "points": 8,
+                "color": 3
+            },
+            "4": {
+                "id_team": 4,
+                "id_player": 364,
+                "gameweek": 4,
+                "points": 3,
+                "color": 2
+            },
+            "5": {
+                "id_team": 4,
+                "id_player": 364,
+                "gameweek": 5,
+                "points": 13,
+                "color": 4
+            }
+        },
+        "447": {
+            "3": {
+                "id_team": 20,
+                "id_player": 447,
+                "gameweek": 3,
+                "points": 0,
+                "color": 0
+            },
+            "4": {
+                "id_team": 20,
+                "id_player": 447,
+                "gameweek": 4,
+                "points": 17,
+                "color": 4
+            },
+            "5": {
+                "id_team": 20,
+                "id_player": 447,
+                "gameweek": 5,
+                "points": 1,
+                "color": 2
+            }
+        },
+        "476": {
+            "3": {
+                "id_team": 20,
+                "id_player": 476,
+                "gameweek": 3,
+                "points": 0,
+                "color": 0
+            },
+            "4": {
+                "id_team": 20,
+                "id_player": 476,
+                "gameweek": 4,
+                "points": 9,
+                "color": 3
+            },
+            "5": {
+                "id_team": 20,
+                "id_player": 476,
+                "gameweek": 5,
+                "points": 8,
+                "color": 3
+            }
+        },
+        "481": {
+            "3": {
+                "id_team": 316,
+                "id_player": 481,
+                "gameweek": 3,
+                "points": 7,
+                "color": 3
+            },
+            "4": {
+                "id_team": 316,
+                "id_player": 481,
+                "gameweek": 4,
+                "points": 5,
+                "color": 3
+            },
+            "5": {
+                "id_team": 316,
+                "id_player": 481,
+                "gameweek": 5,
+                "points": 4,
+                "color": 2
+            }
+        },
+        "551": {
+            "3": {
+                "id_team": 19,
+                "id_player": 551,
+                "gameweek": 3,
+                "points": 7,
+                "color": 3
+            },
+            "4": {
+                "id_team": 19,
+                "id_player": 551,
+                "gameweek": 4,
+                "points": 7,
+                "color": 3
+            },
+            "5": {
+                "id_team": 19,
+                "id_player": 551,
+                "gameweek": 5,
+                "points": 9,
+                "color": 3
+            }
+        },
+        "564": {
+            "3": {
+                "id_team": 16,
+                "id_player": 564,
+                "gameweek": 3,
+                "points": 4,
+                "color": 2
+            },
+            "4": {
+                "id_team": 16,
+                "id_player": 564,
+                "gameweek": 4,
+                "points": 5,
+                "color": 3
+            },
+            "5": {
+                "id_team": 16,
+                "id_player": 564,
+                "gameweek": 5,
+                "points": 10,
+                "color": 4
+            }
+        },
+        "1684": {
+            "3": {
+                "id_team": 7,
+                "id_player": 1684,
+                "gameweek": 3,
+                "points": 7,
+                "color": 3
+            },
+            "4": {
+                "id_team": 7,
+                "id_player": 1684,
+                "gameweek": 4,
+                "points": 3,
+                "color": 2
+            },
+            "5": {
+                "id_team": 7,
+                "id_player": 1684,
+                "gameweek": 5,
+                "points": 3,
+                "color": 2
+            }
+        },
+        "3778": {
+            "3": {
+                "id_team": 48,
+                "id_player": 3778,
+                "gameweek": 3,
+                "points": 5,
+                "color": 3
+            },
+            "4": {
+                "points": "-",
+                "color": 0
+            },
+            "5": {
+                "id_team": 48,
+                "id_player": 3778,
+                "gameweek": 5,
+                "points": 4,
+                "color": 2
+            }
+        },
+        "5493": {
+            "3": {
+                "id_team": 316,
+                "id_player": 5493,
+                "gameweek": 3,
+                "points": 12,
+                "color": 4
+            },
+            "4": {
+                "id_team": 316,
+                "id_player": 5493,
+                "gameweek": 4,
+                "points": 6,
+                "color": 3
+            },
+            "5": {
+                "id_team": 316,
+                "id_player": 5493,
+                "gameweek": 5,
+                "points": 7,
+                "color": 3
+            }
+        },
+        "6027": {
+            "3": {
+                "id_team": 12,
+                "id_player": 6027,
+                "gameweek": 3,
+                "points": 8,
+                "color": 3
+            },
+            "4": {
+                "id_team": 12,
+                "id_player": 6027,
+                "gameweek": 4,
+                "points": 6,
+                "color": 3
+            },
+            "5": {
+                "id_team": 12,
+                "id_player": 6027,
+                "gameweek": 5,
+                "points": 4,
+                "color": 2
+            }
+        },
+        "6028": {
+            "3": {
+                "id_team": 4,
+                "id_player": 6028,
+                "gameweek": 3,
+                "points": 1,
+                "color": 2
+            },
+            "4": {
+                "id_team": 4,
+                "id_player": 6028,
+                "gameweek": 4,
+                "points": 2,
+                "color": 2
+            },
+            "5": {
+                "id_team": 4,
+                "id_player": 6028,
+                "gameweek": 5,
+                "points": 11,
+                "color": 4
+            }
+        },
+        "6032": {
+            "3": {
+                "id_team": 16,
+                "id_player": 6032,
+                "gameweek": 3,
+                "points": 10,
+                "color": 4
+            },
+            "4": {
+                "id_team": 16,
+                "id_player": 6032,
+                "gameweek": 4,
+                "points": 3,
+                "color": 2
+            },
+            "5": {
+                "id_team": 16,
+                "id_player": 6032,
+                "gameweek": 5,
+                "points": 3,
+                "color": 2
+            }
+        },
+        "6042": {
+            "3": {
+                "id_team": 19,
+                "id_player": 6042,
+                "gameweek": 3,
+                "points": -1,
+                "color": 1
+            },
+            "4": {
+                "id_team": 19,
+                "id_player": 6042,
+                "gameweek": 4,
+                "points": 11,
+                "color": 4
+            },
+            "5": {
+                "id_team": 19,
+                "id_player": 6042,
+                "gameweek": 5,
+                "points": 0,
+                "color": 0
+            }
+        },
+        "6049": {
+            "3": {
+                "id_team": 16,
+                "id_player": 6049,
+                "gameweek": 3,
+                "points": 11,
+                "color": 4
+            },
+            "4": {
+                "id_team": 16,
+                "id_player": 6049,
+                "gameweek": 4,
+                "points": 1,
+                "color": 2
+            },
+            "5": {
+                "id_team": 16,
+                "id_player": 6049,
+                "gameweek": 5,
+                "points": 9,
+                "color": 3
+            }
+        },
+        "7024": {
+            "3": {
+                "id_team": 15,
+                "id_player": 7024,
+                "gameweek": 3,
+                "points": 12,
+                "color": 4
+            },
+            "4": {
+                "id_team": 15,
+                "id_player": 7024,
+                "gameweek": 4,
+                "points": 6,
+                "color": 3
+            },
+            "5": {
+                "id_team": 15,
+                "id_player": 7024,
+                "gameweek": 5,
+                "points": 7,
+                "color": 3
+            }
+        },
+        "7025": {
+            "3": {
+                "id_team": 7,
+                "id_player": 7025,
+                "gameweek": 3,
+                "points": 4,
+                "color": 2
+            },
+            "4": {
+                "id_team": 7,
+                "id_player": 7025,
+                "gameweek": 4,
+                "points": 3,
+                "color": 2
+            },
+            "5": {
+                "id_team": 7,
+                "id_player": 7025,
+                "gameweek": 5,
+                "points": 8,
+                "color": 3
+            }
+        },
+        "7739": {
+            "3": {
+                "id_team": 9,
+                "id_player": 7739,
+                "gameweek": 3,
+                "points": 3,
+                "color": 2
+            },
+            "4": {
+                "id_team": 9,
+                "id_player": 7739,
+                "gameweek": 4,
+                "points": 17,
+                "color": 4
+            },
+            "5": {
+                "id_team": 9,
+                "id_player": 7739,
+                "gameweek": 5,
+                "points": 2,
+                "color": 2
+            }
+        },
+        "8952": {
+            "3": {
+                "id_team": 17,
+                "id_player": 8952,
+                "gameweek": 3,
+                "points": 10,
+                "color": 4
+            },
+            "4": {
+                "id_team": 17,
+                "id_player": 8952,
+                "gameweek": 4,
+                "points": 9,
+                "color": 3
+            },
+            "5": {
+                "id_team": 17,
+                "id_player": 8952,
+                "gameweek": 5,
+                "points": 5,
+                "color": 3
+            }
+        },
+        "11092": {
+            "3": {
+                "id_team": 16,
+                "id_player": 11092,
+                "gameweek": 3,
+                "points": 6,
+                "color": 3
+            },
+            "4": {
+                "id_team": 16,
+                "id_player": 11092,
+                "gameweek": 4,
+                "points": 5,
+                "color": 3
+            },
+            "5": {
+                "id_team": 16,
+                "id_player": 11092,
+                "gameweek": 5,
+                "points": 6,
+                "color": 3
+            }
+        },
+        "11312": {
+            "3": {
+                "id_team": 3,
+                "id_player": 11312,
+                "gameweek": 3,
+                "points": 8,
+                "color": 3
+            },
+            "4": {
+                "id_team": 3,
+                "id_player": 11312,
+                "gameweek": 4,
+                "points": 10,
+                "color": 4
+            },
+            "5": {
+                "id_team": 3,
+                "id_player": 11312,
+                "gameweek": 5,
+                "points": 10,
+                "color": 4
+            }
+        },
+        "12900": {
+            "3": {
+                "points": "-",
+                "color": 0
+            },
+            "4": {
+                "id_team": 15,
+                "id_player": 12900,
+                "gameweek": 4,
+                "points": 10,
+                "color": 4
+            },
+            "5": {
+                "id_team": 15,
+                "id_player": 12900,
+                "gameweek": 5,
+                "points": 9,
+                "color": 3
+            }
+        },
+        "12903": {
+            "3": {
+                "id_team": 316,
+                "id_player": 12903,
+                "gameweek": 3,
+                "points": 6,
+                "color": 3
+            },
+            "4": {
+                "id_team": 316,
+                "id_player": 12903,
+                "gameweek": 4,
+                "points": 6,
+                "color": 3
+            },
+            "5": {
+                "id_team": 316,
+                "id_player": 12903,
+                "gameweek": 5,
+                "points": 5,
+                "color": 3
+            }
+        },
+        "12911": {
+            "3": {
+                "id_team": 12,
+                "id_player": 12911,
+                "gameweek": 3,
+                "points": 10,
+                "color": 4
+            },
+            "4": {
+                "id_team": 12,
+                "id_player": 12911,
+                "gameweek": 4,
+                "points": 4,
+                "color": 2
+            },
+            "5": {
+                "id_team": 12,
+                "id_player": 12911,
+                "gameweek": 5,
+                "points": 6,
+                "color": 3
+            }
+        },
+        "12913": {
+            "3": {
+                "id_team": 316,
+                "id_player": 12913,
+                "gameweek": 3,
+                "points": 7,
+                "color": 3
+            },
+            "4": {
+                "id_team": 316,
+                "id_player": 12913,
+                "gameweek": 4,
+                "points": 5,
+                "color": 3
+            },
+            "5": {
+                "id_team": 316,
+                "id_player": 12913,
+                "gameweek": 5,
+                "points": 6,
+                "color": 3
+            }
+        },
+        "13697": {
+            "3": {
+                "id_team": 16,
+                "id_player": 13697,
+                "gameweek": 3,
+                "points": 10,
+                "color": 4
+            },
+            "4": {
+                "id_team": 16,
+                "id_player": 13697,
+                "gameweek": 4,
+                "points": 5,
+                "color": 3
+            },
+            "5": {
+                "id_team": 16,
+                "id_player": 13697,
+                "gameweek": 5,
+                "points": 12,
+                "color": 4
+            }
+        },
+        "13700": {
+            "3": {
+                "id_team": 4,
+                "id_player": 13700,
+                "gameweek": 3,
+                "points": 10,
+                "color": 4
+            },
+            "4": {
+                "id_team": 4,
+                "id_player": 13700,
+                "gameweek": 4,
+                "points": -1,
+                "color": 1
+            },
+            "5": {
+                "id_team": 4,
+                "id_player": 13700,
+                "gameweek": 5,
+                "points": 1,
+                "color": 2
+            }
+        },
+        "14670": {
+            "3": {
+                "id_team": 15,
+                "id_player": 14670,
+                "gameweek": 3,
+                "points": 6,
+                "color": 3
+            },
+            "4": {
+                "id_team": 15,
+                "id_player": 14670,
+                "gameweek": 4,
+                "points": 11,
+                "color": 4
+            },
+            "5": {
+                "id_team": 15,
+                "id_player": 14670,
+                "gameweek": 5,
+                "points": 10,
+                "color": 4
+            }
+        },
+        "15107": {
+            "3": {
+                "id_team": 9,
+                "id_player": 15107,
+                "gameweek": 3,
+                "points": 6,
+                "color": 3
+            },
+            "4": {
+                "id_team": 9,
+                "id_player": 15107,
+                "gameweek": 4,
+                "points": 14,
+                "color": 4
+            },
+            "5": {
+                "id_team": 9,
+                "id_player": 15107,
+                "gameweek": 5,
+                "points": 4,
+                "color": 2
+            }
+        },
+        "15564": {
+            "3": {
+                "id_team": 16,
+                "id_player": 15564,
+                "gameweek": 3,
+                "points": 11,
+                "color": 4
+            },
+            "4": {
+                "id_team": 16,
+                "id_player": 15564,
+                "gameweek": 4,
+                "points": 4,
+                "color": 2
+            },
+            "5": {
+                "id_team": 16,
+                "id_player": 15564,
+                "gameweek": 5,
+                "points": "-",
+                "color": 0
+            }
+        },
+        "18112": {
+            "3": {
+                "id_team": 17,
+                "id_player": 18112,
+                "gameweek": 3,
+                "points": 9,
+                "color": 3
+            },
+            "4": {
+                "id_team": 17,
+                "id_player": 18112,
+                "gameweek": 4,
+                "points": 3,
+                "color": 2
+            },
+            "5": {
+                "id_team": 17,
+                "id_player": 18112,
+                "gameweek": 5,
+                "points": 10,
+                "color": 4
+            }
+        },
+        "18221": {
+            "3": {
+                "id_team": 2,
+                "id_player": 18221,
+                "gameweek": 3,
+                "points": 14,
+                "color": 4
+            },
+            "4": {
+                "id_team": 2,
+                "id_player": 18221,
+                "gameweek": 4,
+                "points": 7,
+                "color": 3
+            },
+            "5": {
+                "id_team": 2,
+                "id_player": 18221,
+                "gameweek": 5,
+                "points": 1,
+                "color": 2
+            }
+        },
+        "19575": {
+            "3": {
+                "id_team": 3,
+                "id_player": 19575,
+                "gameweek": 3,
+                "points": 17,
+                "color": 4
+            },
+            "4": {
+                "id_team": 3,
+                "id_player": 19575,
+                "gameweek": 4,
+                "points": 13,
+                "color": 4
+            },
+            "5": {
+                "id_team": 3,
+                "id_player": 19575,
+                "gameweek": 5,
+                "points": 3,
+                "color": 2
+            }
+        },
+        "20346": {
+            "3": {
+                "id_team": 4,
+                "id_player": 20346,
+                "gameweek": 3,
+                "points": 4,
+                "color": 2
+            },
+            "4": {
+                "id_team": 4,
+                "id_player": 20346,
+                "gameweek": 4,
+                "points": 0,
+                "color": 0
+            },
+            "5": {
+                "id_team": 4,
+                "id_player": 20346,
+                "gameweek": 5,
+                "points": 5,
+                "color": 3
+            }
+        },
+        "22612": {
+            "3": {
+                "id_team": 10,
+                "id_player": 22612,
+                "gameweek": 3,
+                "points": 5,
+                "color": 3
+            },
+            "4": {
+                "points": "-",
+                "color": 0
+            },
+            "5": {
+                "id_team": 10,
+                "id_player": 22612,
+                "gameweek": 5,
+                "points": 7,
+                "color": 3
+            }
+        },
+        "22619": {
+            "3": {
+                "id_team": 499,
+                "id_player": 22619,
+                "gameweek": 3,
+                "points": 3,
+                "color": 2
+            },
+            "4": {
+                "id_team": 499,
+                "id_player": 22619,
+                "gameweek": 4,
+                "points": 6,
+                "color": 3
+            },
+            "5": {
+                "id_team": 499,
+                "id_player": 22619,
+                "gameweek": 5,
+                "points": 2,
+                "color": 2
+            }
+        },
+        "22626": {
+            "3": {
+                "id_team": 499,
+                "id_player": 22626,
+                "gameweek": 3,
+                "points": 7,
+                "color": 3
+            },
+            "4": {
+                "points": "-",
+                "color": 0
+            },
+            "5": {
+                "id_team": 499,
+                "id_player": 22626,
+                "gameweek": 5,
+                "points": 1,
+                "color": 2
+            }
+        },
+        "22627": {
+            "3": {
+                "id_team": 499,
+                "id_player": 22627,
+                "gameweek": 3,
+                "points": 11,
+                "color": 4
+            },
+            "4": {
+                "id_team": 499,
+                "id_player": 22627,
+                "gameweek": 4,
+                "points": 4,
+                "color": 2
+            },
+            "5": {
+                "id_team": 499,
+                "id_player": 22627,
+                "gameweek": 5,
+                "points": 4,
+                "color": 2
+            }
+        }
+    },
+    "teams": [{
+            "id": 48,
+            "name": "Alavés"
+        }, {
+            "id": 1,
+            "name": "Athletic"
+        }, {
+            "id": 2,
+            "name": "Atlético"
+        }, {
+            "id": 3,
+            "name": "Barcelona"
+        }, {
+            "id": 4,
+            "name": "Betis"
+        }, {
+            "id": 499,
+            "name": "Cádiz"
+        }, {
+            "id": 5,
+            "name": "Celta"
+        }, {
+            "id": 7,
+            "name": "Eibar"
+        }, {
+            "id": 23,
+            "name": "Elche"
+        }, {
+            "id": 9,
+            "name": "Getafe"
+        }, {
+            "id": 10,
+            "name": "Granada"
+        }, {
+            "id": 316,
+            "name": "Huesca"
+        }, {
+            "id": 12,
+            "name": "Levante"
+        }, {
+            "id": 50,
+            "name": "Osasuna"
+        }, {
+            "id": 15,
+            "name": "Real Madrid"
+        }, {
+            "id": 16,
+            "name": "Real Sociedad"
+        }, {
+            "id": 17,
+            "name": "Sevilla"
+        }, {
+            "id": 19,
+            "name": "Valencia"
+        }, {
+            "id": 317,
+            "name": "Valladolid"
+        }, {
+            "id": 20,
+            "name": "Villarreal"
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+.mat-card-players {
+    width: 90%;
+    background: rgba(0,0,0,0.1);
+}
+
+.mat-card-players:hover {
+    border-right : solid 5px #c2185b;
+    border-bottom : solid 3px #c2185b;
+}
+
+.avatar {
+    border-radius: 50%;
+    flex-shrink: 0;
+    height: 2.5rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.5rem;
+    background: rgba(0,0,0,0.3);
+    margin: 8px 16px
+}
+
+.img {
+    border-radius: 50%;
+    height: 4rem;
+    width: 4rem;
+}
+
+.label-name_player {
+    font-size: 125%;
+}
+
+.img-team {
+    width: 55%;
+}
+
+.div-team {
+    padding: 0px 16px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+
+.button-see-more {
+    font-size: 110%;
+    padding: 0px 130px;
+    border-radius: 6px;
+    color: #ffffff;
+}
+
+.button-see-more:hover {
+    background: rgb(255, 0, 157, 0.3); 
+}
+
+.div-labels {
+    width: 100%;
+}
+
+.div-button {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-end;
+    justify-content: center;
+}
+
+.mat-grid-tiles-button-avg {
+    margin-top: 8px;
+}
+
+.div-mat-card {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: end;
+    justify-content: center;
+    padding: 8px;
+}
+
+.div-filters-main {
+    width: 100%;
+    height: 100%;
+}
+
+.div-filters-label {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    height: 20%;
+}
+
+.div-filters-check {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    height: 50%;
+    padding-left: 8px;
+}
+
+.div-filters-selected {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    height: 30%;
+}
+
+.label-filter {
+    color: #ffffff;
+    font-size: 45px;
+}
+
+.example-margin {
+    margin: 0 12px;
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.mat-grid-tile-card-players {
+    box-shadow: 0px 0px 20px 0px black;
+}
+
+::ng-deep .mat-checkbox-inner-container {
+    width: 18px !important;
+    height: 18px !important;
+}
+
+.mat-form-field {
+    width: 90%;
+}
+
+.div-check {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: end;
+    justify-content: center;
+    height: 30%;
+}
+
+.td-list-players {
+    width: 100%;
+}
+
+.div-table {
+    width: 100%;
+}
+
+::ng-deep .mat-header-cell {
+    text-align: center !important;
+}
+
+::ng-deep .mat-table {
+    background: none;
+}
+
+table {
+  width: 100%;
+}
+
+th.mat-sort-header-sorted {
+  color: black;
+}
+
+.mat-form-field-filter {
+    padding: 0px 32px;
+}

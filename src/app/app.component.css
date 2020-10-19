@@ -1,0 +1,8 @@
+.span_flex {
+    flex: 1;
+}
+
+::ng-deep .mat-toolbar {
+    background: #960031;
+}
+

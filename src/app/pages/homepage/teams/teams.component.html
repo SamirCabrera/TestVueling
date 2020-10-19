@@ -1,0 +1,110 @@
+<div>
+
+    <mat-grid-list cols="4" rowHeight="100px">
+
+        <mat-grid-tile [colspan]="3" [rowspan]="8" class="mat-grid-list-card">
+
+            <div class="container-card" (click)="viewTeamPlayers()">
+
+                <mat-card *ngFor="let team of teams" (click)="teamSelected(team.id)" class="mat-card-teams">
+                    <mat-card-header class="mat-card-headers">
+    
+                      <mat-card-title class="mat-card-title-label">{{ team.name }}</mat-card-title>
+    
+                    </mat-card-header>
+    
+                    <img mat-card-image src="assets/img/{{team.id}}.png" alt="Photo of a Shiba Inu">
+
+                </mat-card>
+    
+            </div>
+
+        </mat-grid-tile>
+
+        <mat-grid-tile [colspan]="1" [rowspan]="7" class="mat-grid-list-statistics">
+
+          <div>
+
+            <div class="div-container-statistics">
+              <div class="container-statistics">
+                <div class="statistics-description">
+  
+                    <div class="div-icon">
+                        <mat-icon aria-hidden="false" aria-label="Example home icon">sports_soccer</mat-icon>
+                    </div>
+  
+                    <div class="div-label">
+                        <mat-label>{{ totalAvg | number }}</mat-label>
+                    </div>
+  
+                </div>
+            </div>
+  
+            <div class="container-statistics">
+                <div class="statistics-description"> 
+  
+                    <div class="div-icon">
+                        <mat-icon aria-hidden="false" aria-label="Example home icon">stars</mat-icon>
+                    </div>
+  
+                    <div class="div-label">
+                        <mat-label>{{ totalPoints }}</mat-label>    
+                    </div>
+                    
+                </div>
+            </div>
+  
+            <div class="container-statistics">
+                <div class="statistics-description">
+  
+                    <div class="div-icon">
+                        <mat-icon aria-hidden="false" aria-label="Example home icon">perm_identity</mat-icon>
+                    </div>
+  
+                    <div class="div-label">
+                        <mat-label>{{ totalPlayers }}</mat-label>
+                    </div>
+                    
+                </div>
+            </div>
+            </div>
+  
+            <div class="div-container-legend">
+
+              <mat-accordion class="mat-accordion" *ngFor="let caption of captions">
+
+                <mat-expansion-panel class="mat-expansion-panel" hideToggle>
+                  
+                  <mat-expansion-panel-header>
+                    <mat-panel-title>
+
+                      <div class="mat-icon-legend">
+                        <mat-icon aria-hidden="false" aria-label="Example home icon">
+                          {{ caption.icon }}
+                        </mat-icon>
+                      </div>
+
+                    </mat-panel-title>
+
+                    <mat-panel-description>
+                      {{ caption.title }}
+                    </mat-panel-description>
+
+                  </mat-expansion-panel-header>
+
+                  <p>
+                    {{ caption.description }}
+                  </p>
+
+                </mat-expansion-panel>
+
+              </mat-accordion>
+            </div>
+  
+          </div>
+
+        </mat-grid-tile>
+
+    </mat-grid-list>
+
+</div>
